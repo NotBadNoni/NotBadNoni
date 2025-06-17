@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Noni
 - 👀 I’m interested in coding and cars.
-- 🌱 I’m currently learning Java
 - 📫 How to reach me noni8609@gmail.com
 
 <!---
